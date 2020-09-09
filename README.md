@@ -20,7 +20,7 @@ This project is dedicated to the corpora described and evaluated in the paper:
 
 Citation data will be updated when the article is published online.
 
-## GUIDELINES
+## ANNOTATION GUIDELINES
 
 The guidelines offered to the annotators are available in PDF format.
 
