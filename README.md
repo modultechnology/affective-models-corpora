@@ -19,3 +19,18 @@ This project is dedicated to the corpora described and evaluated in the paper:
 ```
 
 Citation data will be updated when the article is published online.
+
+## GUIDELINES
+
+The guidelines offered to the annotators are available in PDF format.
+
+## CORPORA
+
+The corpora is available in the TSV format. The fields have the following meaning:
+
+```
+ID - id of the sentence
+SENTENCE - the content of the sentence/sentences
+DOMINANT - the dominant emotion based on The Revisited Hourglass of Emotion model
+AGREEMENT - a score of 0 or 1 - 1 indicates agreement and the fact that the sentence was used during experiments
+```
