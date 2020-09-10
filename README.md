@@ -34,3 +34,7 @@ SENTENCE - the content of the sentence/sentences
 DOMINANT - the dominant emotion based on The Revisited Hourglass of Emotion model
 AGREEMENT - a score of 0 or 1 - 1 indicates agreement and the fact that the sentence was used during experiments
 ```
+
+## LICENSE 
+
+Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
